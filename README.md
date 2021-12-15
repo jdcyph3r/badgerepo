@@ -11,10 +11,10 @@
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/jdcyph3r/badgerepo?color=845EC2&style=for-the-badge
 [contributors-url]: https://github.com/jdcyph3r/badgerepo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/jdcyph3r/repo_name.svg?color=845EC2&style=for-the-badge
-[forks-url]: https://github.com/jdcyph3r/repo_name/network/members
+[forks-shield]: https://img.shields.io/github/forks/jdcyph3r/badgerepo.svg?color=845EC2&style=for-the-badge
+[forks-url]: https://github.com/jdcyph3r/badgerepo/network/members
 [stars-shield]: https://img.shields.io/github/stars/jdcyph3r/badgerepo.svg?color=845EC2&style=for-the-badge
-[stars-url]: https://github.com/jdcyph3r/repo_name/stargazers
+[stars-url]: https://github.com/jdcyph3r/badgerepo/stargazers
 [issues-shield]: https://img.shields.io/github/issues/jdcyph3r/badgerepo.svg?color=845EC2&style=for-the-badge
 [issues-url]: https://github.com/jdcyph3r/badgerepo/issues
 [license-shield]: https://img.shields.io/github/license/jdcyph3r/badgerepo.svg?color=845EC2&style=for-the-badge
