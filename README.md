@@ -1,4 +1,4 @@
-[![Contributors][contributors-shield]][contributors-url]
+[![Contributors][contributors-shield]][https://img.shields.io/github/contributors/jdcyph3r/badgerepo?style=for-the-badge]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
